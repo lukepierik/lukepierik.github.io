@@ -30,23 +30,9 @@
 }
 
 .menu-list {
-  display: flex;
-  justify-content: center;  // centers items as a group
-  align-items: center;      // aligns vertically (if needed)
   line-height: $header-thickness;
-  list-style: none;
-  padding: 0;
+  float: right;
 }
-
-.menu-list li {
-  margin: 0 15px;
-}
-
-
-//.menu-list {
-//  line-height: $header-thickness;
-//  float: right;
-//}
 .menu-link {
   padding: 5px 10px;
 }
