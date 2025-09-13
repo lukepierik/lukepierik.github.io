@@ -9,4 +9,4 @@ permalink: /about
 ## Motivations
 
 ## Curriculum Vitae
-For fewer anecdotes, more content, and better formatting, see my <a href="/assets/lukepierik-CV.pdf" target="_blank">curriculum vitae</a>.
+For fewer anecdotes, more content, and better formatting, see my <a href="/assets/docs/lukepierik-CV.pdf" target="_blank">curriculum vitae</a>.
