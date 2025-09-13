@@ -15,8 +15,7 @@ menu:
 - {name: 'Contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
-social:
-linkedin 
+social: 
 - {icon: 'linkedin', link:    'https://www.linkedin.com/in/lukepierik/'}
 - {icon: 'envelope', link:   'mailto:lpierik@uci.edu'}
 - {icon: 'twitter', link:    'https://twitter.com/paululele'}
