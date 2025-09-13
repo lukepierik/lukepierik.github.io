@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "About the Author"
-author: "Paul Le"
+author: "LUKE PIERK"
 categories: facts
 tags: [sample]
 image: cuba-2.jpg
