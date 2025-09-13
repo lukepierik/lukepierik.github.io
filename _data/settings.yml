@@ -18,8 +18,7 @@ menu:
 social: 
 - {icon: 'linkedin', link:    'https://www.linkedin.com/in/lukepierik/'}
 - {icon: 'envelope', link:   'mailto:lpierik@uci.edu'}
-- {icon: 'twitter', link:    'https://twitter.com/paululele'}
-- {icon: 'rss-square', link: 'feed.xml'}
+- {icon: 'substack', link:   'https://substack.com/@synopticmath/}
 
 # Customize site text
 pagination:
