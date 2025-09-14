@@ -21,7 +21,7 @@
 
 .fa-bookmark {
   padding: 5px;
-  @include social-media-icon($substack-color, $icon-transition-time);
+  @include social-media-icon($bookmark-color, $icon-transition-time);
 }
 
 .fa-twitter {
