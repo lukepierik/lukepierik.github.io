@@ -15,7 +15,7 @@ menu:
 social: 
 - {icon: 'linkedin', link:    'https://www.linkedin.com/in/lukepierik/'}
 - {icon: 'envelope', link:   'mailto:lpierik@uci.edu'}
-- {icon: 'bookmark', link:   'https://substack.com/@synopticmath/}
+#- {icon: 'bookmark', link:   'https://substack.com/@synopticmath/}
 
 # Customize site text
 pagination:
