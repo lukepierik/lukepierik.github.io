@@ -13,9 +13,9 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social: 
-- {icon: 'linkedin', link:    'https://www.linkedin.com/in/lukepierik/'}
+#- {icon: 'linkedin', link:    'https://www.linkedin.com/in/lukepierik/'}
 - {icon: 'envelope', link:   'mailto:lpierik@uci.edu'}
-- {icon: 'substack', link:   'https://substack.com/@synopticmath/}
+#- {icon: 'substack', link:   'https://substack.com/@synopticmath/}
 
 # Customize site text
 pagination:
