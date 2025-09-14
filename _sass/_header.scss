@@ -55,6 +55,13 @@
   .site-title {
     padding-right: 0.25rem;
   }
+
+  //THIS WAS NEW. TRY TO RIGHT-JUSTIFY HAMBURGER
+  @media (max-width: $container-width) {
+  .dropdown {
+    float: right;        // move wrapper to the right
+    margin-right: 10px;  // optional spacing
+  }
   .dropbtn {
     background-color: white;
     color: black;
@@ -63,13 +70,12 @@
     font-size: 16px;
     border: none;
     cursor: pointer;
-
-    float: right; //This is new
   }
-  .dropdown {
-    position: relative;
-    display: inline-block;
-  }
+  
+ // .dropdown {
+ //   position: relative;
+ //   display: inline-block;
+ // }
   .dropdown-content {
     display: none;
     position: absolute;
