@@ -13,6 +13,13 @@ My favorite elementary equation is the function
 
 $$e^{-x}\sin x$$
 
+One of the mathematical topics I struggled the most with were piecewise functions, like
+
+$$ f(x) = \begin{cases}
+2^{x} & x < 1\\
+2x^2 & x \geq 1
+\end{cases}$$
+
 
 
 ## Curriculum Vitae
