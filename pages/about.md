@@ -20,6 +20,7 @@ $$ f(x) = \begin{cases}
 2x^2 & x \geq 1
 \end{cases}$$
 
+What are some fun projects that I could get started with too?
 
 
 ## Curriculum Vitae
