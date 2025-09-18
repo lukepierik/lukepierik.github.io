@@ -17,6 +17,11 @@ Here is Newton:
 
 $$\vec{F}= \frac{d\vec{p}}{dt}$$
 
+Cauchy Integral Thm:
+
+$$\oint f(z)dz = 0$$
+
+
 My favorite elementary equation is the function
 
 $$e^{-x}\sin x$$
