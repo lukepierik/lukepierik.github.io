@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching
 ---
 
-# Teaching Experience
+## Teaching Experience
 Below is a regularly updated table of UCI courses where I have been a Teaching Assistant
 
  Quarter | Year | Course 
