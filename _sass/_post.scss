@@ -3,6 +3,11 @@
   display: block;
   margin: 10px auto 10px;
 }
+//This code centers page titles
+.post-content h1 {
+  text-align: center;
+}
+
 .post-date {
   display: block;
   margin-bottom: 1rem;
