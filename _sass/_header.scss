@@ -68,6 +68,9 @@ line-height: $header-thickness;
   .menu-list {
     display: none;
   }
+  .menu-social {
+    display: none; /* hide socials on mobile */
+  }
   .site-title {
     padding-right: 0.25rem;
   }
