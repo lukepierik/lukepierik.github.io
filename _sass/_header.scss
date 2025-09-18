@@ -44,10 +44,11 @@
   padding: 5px 10px;
 }
 
-//.header-right {
-//  flex: 0;
-//  text-align: right;
-//}
+.menu-social {
+line-height: $header-thickness;
+  flex: 0;
+  text-align: right;
+}
 
 /*
   Responsiveness with a dropdown menu
