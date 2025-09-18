@@ -9,7 +9,9 @@ permalink: /about
 
 
 ## Personal trivia:
-My favorite fundamental result in physics is... THIS ONE!
+Here is Laplace's Equation:
+
+$$\triangle u = 0$$
 
 My favorite elementary equation is the function
 
