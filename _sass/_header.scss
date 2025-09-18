@@ -46,6 +46,7 @@
 
 .menu-social {
 line-height: $header-thickness;
+  display: flex;
   flex: 0;
   text-align: right;
 }
