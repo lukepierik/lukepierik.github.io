@@ -13,6 +13,10 @@ Here is Laplace's Equation:
 
 $$\triangle u = 0$$
 
+Here is Newton:
+
+$$\vec{F}= \frac{d\vec{p}}{dt}$$
+
 My favorite elementary equation is the function
 
 $$e^{-x}\sin x$$
