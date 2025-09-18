@@ -9,7 +9,7 @@ permalink: /about
 
 
 ## Personal trivia:
-My favorite fundamental result in physics is...
+My favorite fundamental result in physics is... THIS ONE!
 
 My favorite elementary equation is the function
 
