@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching
 ---
 
-Teaching has been an integral part of my work at least since undergrad, where I tutored for a public elementary school in Los Angeles through USC's Joint Education Program. Now as a PhD student, I have the awesome responsibilty to share the joy of mathematical problem solving to university students. I aim to instruct my students towards mathematical mastery and understanding, which is achieved through clear presentations, active classroom discussions, and personal support. If I modestly live up to these high ideals, then my students will not only have progressed in their degree programs, but also be equipped with skills preparing them to identify Truth amid modern confusion.
+Teaching has been an integral part of my work at least since undergrad, where I tutored for a public elementary school in Los Angeles through USC's Joint Education Program. Now as a PhD student, I have the awesome responsibilty to share the joy of problem solving to university students. I aim to instruct my students towards mathematical mastery and understanding, which is achieved through clear presentations, active classroom discussions, and personal support. If I modestly live up to these high ideals, then my students will not only have progressed in their degree programs, but also be equipped with skills preparing them to identify Truth amid modern confusion.
 
 ### Experience
 Below is a regularly updated table of UCI courses where I have been a Teaching Assistant:
