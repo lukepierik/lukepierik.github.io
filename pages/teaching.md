@@ -13,8 +13,10 @@ Below is a regularly updated table of UCI courses where I have been a Teaching A
  :------- | :------: | :------- 
  Fall     | 2025   | Math 2A: Single Variable Calculus I 
  Summer | 2025 | Math 3D: Elementary Differential Equations 
- Summer | 2025 | Math 5B: Calculus for Life Sciences II    
- Summer | 2025 | Math 5A: Calculus for Life Sciences I 
+ Summer | 2025 | Math 5B: Calculus for Life Sciences II
+ Summer | 2025 | Math 5A: Calculus for Life Sciences I
+
+For notes and other materials connected to these courses, see *References*.
 
 ### Highlighted Evaluations
 Here are a few excerpts from anonymously submitted teaching evaluations conducted by UCI's Mathematics Department:
