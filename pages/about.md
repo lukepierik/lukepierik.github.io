@@ -9,6 +9,11 @@ permalink: /about
 
 
 ## Personal trivia:
+
+Possible Favicon?
+
+$$\int d\mathcal{l}$$
+
 Here is Laplace's Equation:
 
 $$\triangle u = 0$$
