@@ -12,7 +12,7 @@ permalink: /about
 
 Possible Favicon?
 
-$$\int d\mathcal{l}$$
+$$\int d\ell$$
 
 Here is Laplace's Equation:
 
