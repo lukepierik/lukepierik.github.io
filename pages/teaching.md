@@ -23,4 +23,4 @@ Here are a few excerpts from anonymously submitted teaching evaluations conducte
 
 > Such a kind and welcoming TA, always willing to answer any and all questions. A genuine person who cares about students. Always going above and beyond to help us out and even works to accommodate student schedules to allow for more helping. (Summer 2025, Math 5A)
 
-> "Luke encourages us to speak up and contribute to flow diagram connecting topics we've learned. He strives to help us with any material we're struggling with and does his best, especially during the activities." — Summer 2025, Math 5B
+> Luke encourages us to speak up and contribute to flow diagram connecting topics we've learned. He strives to help us with any material we're struggling with and does his best, especially during the activities. (Summer 2025, Math 5B)
