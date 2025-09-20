@@ -1,5 +1,5 @@
 ---
-layout: catagory
+layout: page
 title: Research
 catagory: research
 permalink: /research
