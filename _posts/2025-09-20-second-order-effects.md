@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Second-order effects"
+title: "Second-order Effects on Cancer Treatment Efficacy"
 author: "Luke Pierik"
 categories: research
 tags: [sample]
