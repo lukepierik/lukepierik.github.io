@@ -1,6 +1,7 @@
 ---
 layout: catagory
 title: Research
+catagory: research
 permalink: /research
 ---
 
