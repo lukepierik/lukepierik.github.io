@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Evolutionary Coexistence Among Hawaiian Crickets"
-author: "LUKE PIERK"
-categories: facts
+author: "Luke Pierik"
+categories: research
 tags: [sample]
 image: research-StA.png
 ---
