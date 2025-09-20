@@ -16,6 +16,7 @@ author:              "Luke Pierik"
 
 # Some post settings
 hide_post_date: true
+site.hide_post_share: true
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
