@@ -14,6 +14,9 @@ title:		           "Millennial"
 description:	       "a minimalist Jekyll theme for running a blog or publication"
 author:              "Paul Le"
 
+# Some post settings
+hide_post_date: true
+
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
