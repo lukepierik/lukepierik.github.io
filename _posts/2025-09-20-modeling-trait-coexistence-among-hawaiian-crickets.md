@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Model for Trait Coexistence Among Hawaiian Crickets"
+title: "Modeling Trait Coexistence Among Hawaiian Crickets"
 author: "LUKE PIERK"
 categories: facts
 tags: [sample]
