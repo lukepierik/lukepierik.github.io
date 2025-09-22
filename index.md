@@ -3,8 +3,6 @@ layout: home
 title: Home
 ---
 
-# Welcome!
-
 <div class="homepage">
   <div class="text-block">
     <h1>Welcome!</h1>
