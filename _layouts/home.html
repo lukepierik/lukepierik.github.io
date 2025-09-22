@@ -3,6 +3,12 @@ layout: default
 title: Home
 ---
 
+<div class="page-content">
+  <article>
+    {{ content }}
+  </article>
+</div>
+
 {% for post in paginator.posts %}
   {% include featured-post.html %}
 {% endfor %}
