@@ -5,6 +5,38 @@
   padding: 0px 10px 10px;
 }
 
+.homepage {
+  display: flex;
+  align-items: center;       /* vertically center text vs image */
+  justify-content: center;   /* center everything horizontally */
+  gap: 40px;                 /* spacing between text and image */
+  max-width: 800px;         /* keeps content from stretching too wide */
+  margin: 60px auto;         /* centers the block on the page */
+  padding: 0 20px;           /* some breathing room at page edges */
+}
+
+.text-block {
+  flex: 1;
+}
+
+.image-block img {
+  max-width: 250px;
+  border-radius: 10px;
+}
+
+/* ✅ Responsive for smaller screens */
+@media (max-width: 768px) {
+  .homepage {
+    flex-direction: column;  /* stack text + image */
+    text-align: center;      /* center text */
+  }
+
+  .image-block img {
+    max-width: 180px;
+    margin-top: 20px;
+  }
+}
+
 .featured-post {
   height: 400px;
   margin: 5px 10px 10px;
