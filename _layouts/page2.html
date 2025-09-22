@@ -11,8 +11,6 @@ layout: default
   </article>
 </div>
 
-{% for post in site.posts %}
-  {% if post.categories contains page.category %}
-    {% include card-grid.html %}
-  {% endif %}
-{% endfor %}
+{% if post.categories contains page.category %}
+  {% include card-grid.html %}
+{% endif %}
