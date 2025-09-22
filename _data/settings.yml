@@ -10,7 +10,6 @@ menu:
 - {name: 'About',              url: 'about'}
 - {name: 'Research',           url: 'research'}
 - {name: 'Teaching',           url: 'teaching'}
-- {name: 'Research 2',         url: 'research2'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social: 
