@@ -13,6 +13,6 @@ layout: default
 
 {% for post in site.posts %}
   {% if post.categories contains page.category %}
-    {% include featured-panel.html %}
+    {% include card-grid.html %}
   {% endif %}
 {% endfor %}
