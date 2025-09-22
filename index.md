@@ -2,4 +2,4 @@
 layout: home
 title: Home
 ---
-I see, is this the code that changes what my homepage looks like?
+My name is Luke Pierik, and I am an embryonic, second-year Mathematics PhD student at the University of California, Irvine. Here you will find information about my academic exeriences, research interests, and some mathy musings. Thank you for stopping by!
