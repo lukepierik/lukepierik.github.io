@@ -28,6 +28,7 @@
 @media (max-width: 768px) {
   .homepage {
     flex-direction: column;  /* stack text + image */
+    text-align: left;
     /*text-align: center;      /* center text */
   }
 
