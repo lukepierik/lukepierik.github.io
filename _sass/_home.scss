@@ -7,12 +7,13 @@
 
 .homepage {
   display: flex;
+  flex-direction: row-reverse; /* flips order: image left, text right */
   align-items: center;       /* vertically center text vs image */
   justify-content: center;   /* center everything horizontally */
   gap: 40px;                 /* spacing between text and image */
   max-width: 800px;         /* keeps content from stretching too wide */
   margin: 60px auto;         /* centers the block on the page */
-  padding: 0 20px;           /* some breathing room at page edges */
+  /*padding: 0 20px;           /* some breathing room at page edges */
 }
 
 .text-block {
