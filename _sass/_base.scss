@@ -16,10 +16,11 @@ dl, dd, ol, ul, figure {
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
-  font-weight: bold;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  /* font-weight: bold; */
   line-height: 1.25;
   text-rendering: optimizeLegibility;
-  font-family: 'David Libre', serif;
 }
 
 h1 {
