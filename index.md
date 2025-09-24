@@ -15,7 +15,7 @@ title: Home
     </p>
     <ul>
     <li>Office: Rowland Hall 419</li>
-    <li>Office Hours: 10-11:30am TuTh</li>
+    <li>Office Hours: Tuesdays 9-11am, Thursdays 10-11am</li>
     <li><a href="/assets/docs/lukepierik-CV.pdf" target="_blank">Curriculum Vitae</a></li>
   </ul>
   </div>
