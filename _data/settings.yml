@@ -17,7 +17,7 @@ social:
 - {style: 'brands',      icon: 'linkedin-in',    link:   'https://www.linkedin.com/in/lukepierik/'}
 - {style: 'solid',       icon: 'envelope',       link:   'mailto:lpierik@uci.edu'}
 - {style: 'brands',      icon: 'google-scholar', link:   'https://scholar.google.com/citations?user=xdBggQEAAAAJ&hl=en'}
-- {style: 'solid',       icon: 'bookmark',       link:   'https://substack.com/@synopticmath/'}
+#- {style: 'solid',       icon: 'bookmark',       link:   'https://substack.com/@synopticmath/'}
 
 # Customize site text
 pagination:
