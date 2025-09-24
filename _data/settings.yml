@@ -13,10 +13,11 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social: 
-- {icon: 'linkedin',       link:   'https://www.linkedin.com/in/lukepierik/'}
-- {icon: 'envelope',       link:   'mailto:lpierik@uci.edu'}
-- {icon: 'google-scholar', link:   'https://scholar.google.com/citations?user=xdBggQEAAAAJ&hl=en'}
-- {icon: 'bookmark',       link:   'https://substack.com/@synopticmath/'}
+
+- {style: 'brands',      icon: 'linkedin',       link:   'https://www.linkedin.com/in/lukepierik/'}
+- {style: 'solid',       icon: 'envelope',       link:   'mailto:lpierik@uci.edu'}
+- {style: 'brands',      icon: 'google-scholar', link:   'https://scholar.google.com/citations?user=xdBggQEAAAAJ&hl=en'}
+- {style: 'solid',       icon: 'bookmark',       link:   'https://substack.com/@synopticmath/'}
 
 # Customize site text
 pagination:
