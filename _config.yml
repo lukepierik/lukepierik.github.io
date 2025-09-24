@@ -12,7 +12,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Luke Pierik"
 description:	       "An academic site, welcome!"
-author:              ""
+author:              "Luke Pierik"
 
 # Some post settings
 hide_post_date: true
