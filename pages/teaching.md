@@ -4,7 +4,9 @@ title: Teaching
 permalink: /teaching
 ---
 
-Teaching has been an integral part of my work at least since undergrad, where I tutored for a public elementary school in Los Angeles through USC's <a href="https://dornsife.usc.edu/joint-educational-project/" target ="_blank">Joint Educational Project</a>. Now as a PhD student, I have the awesome responsibilty to share the joy of problem solving to university students. I aim to instruct my students towards mathematical mastery and understanding, which is achieved through clear presentations, active classroom discussions, and personal support. If I only modestly achieve these ideals, then my students will not only have progressed in their degree programs, but also be equipped to discern Truth amid modern noisiness.
+Teaching has been an integral part of my work at least since undergrad, where I tutored for a public elementary school in Los Angeles through USC's <a href="https://dornsife.usc.edu/joint-educational-project/" target ="_blank">Joint Educational Project</a>. Now as a PhD student, I have the awesome responsibilty to share the joy of problem solving to university students. I aim to instruct my students towards mathematical mastery and understanding, which is achieved through clear presentations, active classroom discussions, and personal support.
+
+<!--If I only modestly achieve these ideals, then my students will not only have progressed in their degree programs, but also be equipped to discern Truth amid modern noisiness. -->
 
 ---
 
