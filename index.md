@@ -11,11 +11,11 @@ title: Home
   <div class="text-block">
     <h1>Welcome!</h1>
     <p>
-      My name is Luke Pierik, and I am an embryonic, second-year Mathematics PhD student at the University of California, Irvine. Here you will find information about my academic exeriences, research interests, and other scholastic trivia. Thanks for stopping by!
+      My name is Luke Pierik, and I am an embryonic, second-year Applied Mathematics PhD student at the University of California, Irvine. Here you will find information about my academic exeriences, research interests, and other scholastic trivia. Thanks for stopping by!
     </p>
     <ul>
     <li>Office: Rowland Hall 419</li>
-    <li>Office Hours: Tuesdays 9-11am, Thursdays 10-11am</li>
+    <li>Office Hours: Mondays 3-5pm, Wednesdays 3-4pm</li>
     <li><a href="/assets/docs/lukepierik-CV.pdf" target="_blank">Curriculum Vitae</a></li>
   </ul>
   </div>
