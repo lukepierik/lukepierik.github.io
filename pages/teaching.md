@@ -21,7 +21,7 @@ Below is a regularly updated table of UCI courses where I have been a Teaching A
  Summer | 2025 | Math 5B: Calculus for Life Sciences II
  Summer | 2025 | Math 5A: Calculus for Life Sciences I
 
-For notes and other materials connected to these courses, see *References*.
+For notes and other materials connected to these courses, see *Resources*.
 
 ### Highlighted Evaluations
 Here are a few excerpts from anonymously submitted teaching evaluations conducted by UCI's Mathematics Department:
