@@ -15,6 +15,7 @@ Below is a regularly updated table of UCI courses where I have been a Teaching A
 
  Quarter | Year | Course 
  :------- | :------ | :------- 
+ Spring | 2026 | Math 2A: Single Variable Calculus I
  Winter | 2026 | Math 2B: Single Variable Calculus II
  Fall     | 2025   | Math 2A: Single Variable Calculus I 
  Summer | 2025 | Math 3D: Elementary Differential Equations 
