@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching
 ---
 
-Teaching has been an integral part of my work at least since undergrad, where I tutored for a public elementary school in Los Angeles through USC's <a href="https://dornsife.usc.edu/joint-educational-project/" target ="_blank">Joint Educational Project</a>. Now as a PhD student, I have the awesome responsibilty to share the joy of problem solving to university students. I aim to instruct my students towards mathematical mastery and understanding, which is achieved through clear presentations, active classroom discussions, and personal support.
+Teaching has been an integral part of my work at least since undergrad, where I tutored for a public elementary school in Los Angeles through USC's <a href="https://dornsife.usc.edu/joint-educational-project/" target ="_blank">Joint Educational Project</a>. Now as a PhD student, I have the awesome responsibilty to share the joy of problem solving with university students. I aim to foster this spirit while cultivating mathematical mastery in my students, and this is accomplished through clear presentations, active classroom discussions, and personal support.
 
 <!--If I only modestly achieve these ideals, then my students will not only have progressed in their degree programs, but also be equipped to discern Truth amid modern noisiness. -->
 
@@ -30,3 +30,5 @@ Here are a few excerpts from anonymously submitted teaching evaluations conducte
 > Such a kind and welcoming TA, always willing to answer any and all questions. A genuine person who cares about students. Always going above and beyond to help us out and even works to accommodate student schedules to allow for more helping. (Summer 2025, Math 5A)
 
 > Luke encourages us to speak up and contribute to flow diagram connecting topics we've learned. He strives to help us with any material we're struggling with and does his best, especially during the activities. (Summer 2025, Math 5B)
+
+> Luke’s step-by-step demonstrations during discussion sessions contributed most to my learning. He explained difficult topics (like convergence tests) in an easy-to-understand manner, and the tips he provided were extremely practical for homework and exam preparation. I like him so much for his clear explaining and great solutions!! (Winter 2026, Math 2B)
